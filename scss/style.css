@@ -102,7 +102,7 @@ body {
         top: 25%;
         height: 50%;
         width: 1px;
-        background: #55165E; }
+        background: #8754ed; }
         .btn-style::after {
           position: absolute;
           content: "";
@@ -110,37 +110,37 @@ body {
           top: 25%;
           height: 50%;
           width: 1px;
-          background: #55165E; }
+          background: #8754ed; }
 
           .btn-link {
             padding: 0;
-            color: #55165E;
+            color: #8754ed;
             border: 0;
             text-decoration: underline; }
             .btn-link:hover {
-              color: #55165E; }
+              color: #8754ed; }
 
               .btn-link-group a {
                 padding: 0;
-                color: #55165E;
+                color: #8754ed;
                 border: 0;
                 text-decoration: underline; }
 
                 .btn-primary {
-                  background: #55165E;
+                  background: #8754ed;
                   color: #fff;
-                  border-color: #55165E; }
+                  border-color: #8754ed; }
                   .btn-primary:active, .btn-primary:hover, .btn-primary.focus, .btn-primary.active {
-                    background: #55165E !important;
-                    border-color: #55165E !important; }
+                    background: #8754ed !important;
+                    border-color: #8754ed !important; }
 
                     .btn-outline-primary {
                       background: transparent;
                       color: #fff;
-                      border-color: #55165E; }
+                      border-color: #8754ed; }
                       .btn-outline-primary:active, .btn-outline-primary:hover, .btn-outline-primary.focus, .btn-outline-primary.active {
-                        background: #55165E !important;
-                        border-color: #55165E !important;
+                        background: #8754ed !important;
+                        border-color: #8754ed !important;
                         color: #fff; }
 
                         body {
@@ -182,7 +182,7 @@ body {
           outline: 0; }
 
           a:hover {
-            color: #55165E; }
+            color: #8754ed; }
 
             .slick-slide {
               outline: 0; }
@@ -210,7 +210,7 @@ body {
                               display: unset !important; }
 
                               .bg-primary {
-                                background: #55165E !important; }
+                                background: #8754ed !important; }
 
                                 .bg-black {
                                   background: #000 !important; }
@@ -219,7 +219,7 @@ body {
                                     background: #0F0F0F !important; }
 
                                     .text-primary {
-                                      color: #55165E !important; }
+                                      color: #8754ed !important; }
 
                                       .zindex-1 {
                                         z-index: 1; }
@@ -263,7 +263,7 @@ body {
                                                                 .navbar-dark .navbar-nav .nav-link {
                                                                   color: #fff; }
                                                                   .navbar-dark .navbar-nav .nav-link:hover {
-                                                                    color: #55165E; }
+                                                                    color: #8754ed; }
 
                                                                     .navbar-expand-lg .navbar-nav .nav-link {
                                                                       padding: 20px 15px; }
@@ -282,12 +282,12 @@ body {
                                                                             text-align: center;
                                                                             transition: .2s ease; }
                                                                             .social-icons a:hover {
-                                                                              color: #55165E;
-                                                                              border-color: #55165E;
+                                                                              color: #8754ed;
+                                                                              border-color: #8754ed;
                                                                               text-decoration: none; }
 
                                                                               .title strong {
-                                                                                color: #55165E; }
+                                                                                color: #8754ed; }
 
                                                                                 .title-border {
                                                                                   position: relative;
@@ -299,7 +299,7 @@ body {
                                                                                     bottom: -15px;
                                                                                     height: 1px;
                                                                                     width: 200px;
-                                                                                    background: #55165E; }
+                                                                                    background: #8754ed; }
 
                                                                                     .form-control {
                                                                                       background: transparent;
@@ -314,7 +314,7 @@ body {
                                                                                           background: transparent;
                                                                                           box-shadow: none;
                                                                                           color: #fff;
-                                                                                          border-color: #55165E; }
+                                                                                          border-color: #8754ed; }
 
                                                                                           textarea.form-control {
                                                                                             height: 180px; }
@@ -333,14 +333,14 @@ body {
                                                                                                 font-weight: 600;
                                                                                                 margin-right: 10px;
                                                                                                 border: 0;
-                                                                                                color: #55165E; }
+                                                                                                color: #8754ed; }
                                                                                                 .pagination .page-item .page-link:hover {
-                                                                                                  background: #55165E;
+                                                                                                  background: #8754ed;
                                                                                                   color: #fff; }
                                                                                                   .pagination .page-item:first-child .page-link, .pagination .page-item:last-child .page-link {
                                                                                                     border-radius: 0; }
                                                                                                     .pagination .page-item.active .page-link {
-                                                                                                      background: #55165E;
+                                                                                                      background: #8754ed;
                                                                                                       color: #fff; }
 
                                                                                                       .content * {
@@ -360,7 +360,7 @@ body {
 
                                                                                                             .content a {
                                                                                                               text-decoration: underline;
-                                                                                                              color: #55165E; }
+                                                                                                              color: #8754ed; }
 
                                                                                                               .content ol,
                                                                                                               .content ul {
@@ -381,7 +381,7 @@ body {
                                                                                                                         height: 8px;
                                                                                                                         width: 8px;
                                                                                                                         border-radius: 50%;
-                                                                                                                        background: #55165E;
+                                                                                                                        background: #8754ed;
                                                                                                                         left: 3px;
                                                                                                                         top: 8px; }
 
@@ -479,7 +479,7 @@ body {
                                                                                                                                                               font-size: 20px !important;
                                                                                                                                                               color: #fff;
                                                                                                                                                               padding: 20px 40px;
-                                                                                                                                                              border-left: 2px solid #55165E;
+                                                                                                                                                              border-left: 2px solid #8754ed;
                                                                                                                                                               margin: 40px 0;
                                                                                                                                                               font-weight: bold;
                                                                                                                                                               background: #0F0F0F; }
@@ -512,7 +512,7 @@ body {
                                                                                                                                                                             .code-tabs .nav-tabs .nav-item::before {
                                                                                                                                                                               display: none; }
                                                                                                                                                                               .code-tabs .nav-tabs .nav-item.active {
-                                                                                                                                                                                background: #55165E; }
+                                                                                                                                                                                background: #8754ed; }
                                                                                                                                                                                 .code-tabs .nav-tabs .nav-item.active .nav-link {
                                                                                                                                                                                   color: #fff; }
                                                                                                                                                                                   .code-tabs .tab-content {
