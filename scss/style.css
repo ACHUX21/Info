@@ -3,11 +3,6 @@
 }
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap");
 
-body, html, #app {
-  margin: 0;
-  width: 100%;
-  height: 100%;
-}
 
 #app {
   overflow: hidden;
@@ -18,30 +13,6 @@ body, html, #app {
   text-shadow: 0 0 5px #ffffff, 0 0 20px #000, 0 0 30px #000;
 }
 
-#app h1 {
-  --fontSize: 60px;
-  --lineHeight: 80px;
-  width: auto;
-  height: calc(2 * var(--lineHeight));
-  line-height: var(--lineHeight);
-  margin: calc(50vh - var(--lineHeight)) auto 0;
-  font-size: var(--fontSize);
-  text-transform: uppercase;
-}
-
-#app a {
-  margin-top: 10px;
-  display: inline-block;
-  text-decoration: none;
-  color: #fff;
-}
-
-#app canvas {
-  display: block;
-  position: fixed;
-  z-index: -1;
-  top: 0;
-}
 body {
   line-height: 1.2;
   font-family: "Open Sans", sans-serif;
