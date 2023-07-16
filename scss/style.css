@@ -8,11 +8,30 @@
 
 
 
-body, {
+body, html, #app {
   line-height: 1.2;
   font-family: "Open Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
   color: #999; }
+
+#app {
+  overflow: hidden;
+  touch-action: pan-up;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  text-shadow: 0 0 5px #ffffff, 0 0 20px #000, 0 0 30px #000;
+}
+
+#app canvas {
+  display: block;
+  position: fixed;
+  z-index: -1;
+  top: 0;
+}
+
+
+
 
   p,
   .paragraph {
